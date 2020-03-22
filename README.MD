@@ -20,7 +20,7 @@ Documentation and workspace for the development and deployment of *Education Gam
 1. Lay them out in the following structure:
 
     ``` bash
-    | -- .
+    | -- ../rhythmcollective
         | -- arena
         | -- zui
         | -- blender-mongo
