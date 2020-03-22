@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"name": "Documentation",
+			"path": "."
+		},
+		{
+			"name": "Zageron's UI Framework",
+			"path": "..\\rhythmcollective\\zui"
+		},
+		{
+			"name": "Arena (Deployment and Networking)",
+			"path": "..\\rhythmcollective\\arena"
+		},
+		{
+			"name": "Blender Editor Plugin",
+			"path": "..\\rhythmcollective\\blender"
+		}
+	],
+	"settings": {
+		"files.eol": "\n",
+		"files.insertFinalNewline": true,
+		"files.trimTrailingWhitespace": true,
+	}
+}
